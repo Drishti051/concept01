@@ -1,0 +1,33 @@
+.container{
+    
+    background-color: rgb(123, 20, 220);
+    font-style: italic;
+    margin-top: 5vh;
+    margin-left: 5vw;
+    
+    width:90vw;
+    height:900px;
+    padding-top:5px;
+}
+.restaurant-page{
+    width: 90%;
+    height: 800px;
+    background-color: chartreuse;
+    margin-left: 5%;
+    margin: 5%;
+    text-align: center;
+    padding-left: 19px;
+
+
+
+}
+
+
+.items{
+    font-style: italic;
+}
+
+.form-text{
+    font-style: italic;
+}
+
